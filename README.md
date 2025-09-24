@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
 
   <div align="left">
     <h2>👋 Hi, I'm Lee</h2>
