@@ -9,11 +9,6 @@
       🌱 Currently learning React, Tailwind, and Spring Boot  
     </p>
   </div>
-
-  <div align="right">
-    <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhwdmd3Mm4zaTdiY2x5ZGZmM3hvNHVkYTBiaHh6MHF5eDM0cXY0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
-  </div>
-
 </div>
 
 ---
