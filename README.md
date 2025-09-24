@@ -1,25 +1,26 @@
-  <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <h2 align="center">👋 Hi, I'm Lee</h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-<p align="center">
-Full Stack Software Engineer • Angular • TypeScript • Java • AWS  
-</p>
+  <div align="left">
+    <h2>👋 Hi, I'm Lee</h2>
+    <p>
+      Full Stack Software Engineer • Angular • TypeScript • Java • AWS  
+    </p>
+    <p>
+      🌱 Currently learning React, Tailwind, and Spring Boot  
+    </p>
+  </div>
 
-<p align="center">
-🌱 Currently learning React, Tailwind, and Spring Boot  
-</p>
+  <div>
+    <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhwdmd3Mm4zaTdiY2x5ZGZmM3hvNHVkYTBiaHh6MHF5eDM0cXY0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
+  </div>
 
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhwdmd3Mm4zaTdiY2x5ZGZmM3hvNHVkYTBiaHh6MHF5eDM0cXY0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 </div>
 
-###
-
-<h4 align="left">Hello World!!</h4>
-
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leezydoesit/leezydoesit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leezydoesit/leezydoesit/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leezydoesit/leezydoesit/output/pacman-contribution-graph.svg">
 </picture>
+
