@@ -1,16 +1,24 @@
-<div align="center">
+## Hello, I'm Lee 👋  
 
-  <div align="left">
-    <h2>👋 Hi, I'm Lee</h2>
-    <p>
-      Full Stack Software Engineer
-      Work Stack: • Angular • TypeScript • Java • AWS  
-    </p>
-    <p>
-      🌱 Currently learning React, Tailwind, and Spring Boot  
-    </p>
-  </div>
-</div>
+💼 Full Stack Software Engineer at **Fidelity Investments**  
+
+🔧 Day-to-day I work with **Angular, TypeScript, Java, and AWS**, focusing on building and modernising full-stack applications.  
+
+🌱 On the side, I’m exploring **React, Tailwind, and the TypeScript ecosystem** — always looking for cleaner patterns and new ways to build. 
+
+<h2 align="center">Languages & Frameworks</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,java,spring,react,tailwind" />
+  </a>
+</p>
+
+<h2 align="center">Tools & Platforms</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,npm,vite,vscode,idea" />
+  </a>
+</p>
 
 ---
 
