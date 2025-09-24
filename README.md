@@ -3,7 +3,7 @@
   <div align="left">
     <h2>👋 Hi, I'm Lee</h2>
     <p>
-      Full Stack Software Engineer • Angular • TypeScript • Java • AWS  
+      **Full Stack Software Engineer** • Angular • TypeScript • Java • AWS  
     </p>
     <p>
       🌱 Currently learning React, Tailwind, and Spring Boot  
