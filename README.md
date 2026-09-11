@@ -4,8 +4,21 @@
 local lee = {
   role = "full-stack software engineer",
   company = "fidelity investments",
-  location = "dublin, ireland",
-  stack = { "typescript", "angular", "java", "aws" },
-  learning = { "react", "terraform", "docker", "go" },
+  based_in = "dublin, ireland",
+
+  works_with = {
+    "typescript",
+    "angular",
+    "java",
+    "spring boot",
+    "aws",
+    "terraform",
+    "docker",
+  },
+
+  learning = {
+    "react",
+    "go",
+  },
 }
 ```
