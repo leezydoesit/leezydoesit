@@ -1,10 +1,11 @@
-```console
-lee@github:~$ whoami
+```lua
+-- ~/whoami
 
-name       lee
-role       full-stack software engineer
-company    fidelity investments
-daily      angular · typescript · java · aws
-toolkit    react · tailwind · terraform · docker
-learning   go
+local lee = {
+  role = "full-stack software engineer",
+  company = "fidelity investments",
+  location = "dublin, ireland",
+  stack = { "typescript", "angular", "java", "aws" },
+  learning = { "react", "terraform", "docker", "go" },
+}
 ```
